@@ -1,0 +1,22 @@
+body {
+    width: 200px;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    border: 1px solid black;
+}
+
+.top {
+    border-top: none;
+}
+
+.bottom {
+    border-bottom: none;
+}
